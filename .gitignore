@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+venv/
+system-02-support-triage/escalations.jsonl
+system-01-research-crew/report.md

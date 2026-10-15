@@ -1,0 +1,6 @@
+crewai>=0.80.0
+crewai-tools
+litellm
+google-genai
+langgraph>=0.2.0
+python-dotenv>=1.0.0
